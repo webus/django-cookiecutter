@@ -1,0 +1,2 @@
+# django-cookiecutter
+Django template
